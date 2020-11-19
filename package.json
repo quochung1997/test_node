@@ -1,0 +1,14 @@
+{
+  "name": "test_hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Quoc Hung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
